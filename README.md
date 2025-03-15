@@ -1,8 +1,8 @@
-# Aplicación Web de Generación de Ejercicios de Programación
+# Dailywid
 
 ## Descripción
 
-Esta aplicación web se conecta a widgets y se utiliza para generar ejercicios de programación en varios lenguajes como SQL, Python, Java, entre otros. Los ejercicios varían en dificultad de 1 a 10, según la elección del usuario.
+Dailywid es una pagina web capaz de generar de forma diaria ejercicios de programación basado en parámetros de dificultad y conocimientos
 
 ## Características
 
@@ -11,13 +11,11 @@ Esta aplicación web se conecta a widgets y se utiliza para generar ejercicios d
 - **Interfaz Intuitiva**: Fácil de usar y navegar.
 - **Generación Aleatoria**: Ejercicios generados aleatoriamente basada en parametros para una práctica diaria variada.
 
-## Instalación
-
-# TODO
-
 ## Uso
 
-# TODO
+### TODO
+
+### TODO
 
 ## Contribuciones
 
