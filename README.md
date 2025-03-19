@@ -1,4 +1,4 @@
-# Dailywid
+c# Dailywid
 
 ## Descripción
 
@@ -12,8 +12,6 @@ Dailywid es una pagina web capaz de generar de forma diaria ejercicios de progra
 - **Generación Aleatoria**: Ejercicios generados aleatoriamente basada en parametros para una práctica diaria variada.
 
 ## Uso
-
-### TODO
 
 ### TODO
 
